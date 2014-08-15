@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+if [ $EUID != 0 ]; then
+        echo "this script must be run using sudo"
+        echo ""
+        echo "usage:"
+        echo "sudo ./biotropyd"
+        exit $exit_code
+   exit 1
+fi
+
+# !important set correct baudrate
+stty -F /dev/ttyUSB0 1000000
+
+python entro.py -s /dev/ttyUSB0 -d 127.0.0.1 -t 2222 --alldata #--verbose --alldata
