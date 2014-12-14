@@ -6,8 +6,6 @@ import re
 import pipes
 from subprocess import Popen, PIPE
 
-import localconfig
-
 KEYSPEC = """
 %echo Generating an OpenPGP key
 Key-Type: {type}
@@ -24,10 +22,6 @@ Passphrase: {passphrase}
 %commit
 %echo Key generated. Done.
 """
-
-def get_gpg_config_dir(username):
-	userhome = os.path.join(localconfig.CONFIG['home_dirs_root'], username)
-	return os.path.join(userhome, ".gpg")
 
 def default_spec():
 	return KEYSPEC.format(type='RSA', 
