@@ -1,5 +1,7 @@
 ## Biotropyd
 
+![Stages of apoptosis](http://www.sciencemuseum.org.uk/~/media/RWSCIM/WhoAmI/FindOutMore/WHat%20triggers%20apoptosis.jpg)
+
 "Only entropy comes easy" -- Anton Chekhov
 
 Unless you are a computer, in that case entropy is imposible to generate from your own deterministic processing power. Most operating systems have to resort to noise generated somewhere in the computer system to feed their entropy pools.
