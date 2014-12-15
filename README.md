@@ -2,7 +2,7 @@
 
 "Only entropy comes easy" -- Anton Chekhov
 
-Unless you are a computer, in that case entropy is imposible to generate from your own deterministic processing power. Most operating systems have to resort to noise generated somewhere in the computer system to feed their entropy pools.
+Unless you are a computer, in that case entropy is imposible to generate from your own deterministic processes alone. Most operating systems have to resort to noise generated somewhere in the computer system to feed their entropy pools.
 
 Humans, on the other hand, are an excellent source of entropy. You are older now than you were when you started reading this text. This process of decay is relentless, stochastic and perfectly natural as well as unstoppable. 
 
