@@ -12,4 +12,4 @@ Most biological processes are cyclical in nature so all biological systems have 
 
 Biotropyd is a simple software experiment that feeds the entropy pool in your computer with your heartrate and generates your cryptographic identity using the randomness generated from that pool. Thereby linking your digital identity to a bodily process that uniquely identifies you.
 
- 
+ Made with the support of Baltan Laboratories and HOLST Centre.
