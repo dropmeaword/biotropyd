@@ -6,7 +6,7 @@ Unless you are a computer, in that case entropy is imposible to generate from yo
 
 Humans, on the other hand, are an excellent source of entropy. You are older now than you were when you started reading this text. This process of decay is relentless, stochastic and perfectly natural as well as unstoppable. 
 
-![Stages of apoptosis](http://www.sciencemuseum.org.uk/~/media/RWSCIM/WhoAmI/FindOutMore/WHat%20triggers%20apoptosis.jpg)
+![Stages of apoptosis](https://github.com/dropmeaword/biotropyd/raw/master/docs/apoptosis.jpg)
 
 Most biological processes are cyclical in nature so all biological systems have internal clocks to time them. Circadian rhythms, heart beats, sleeping cycles, Apoptosis (programmed cell death) are a few examples of timed processes that take place within you every day and repeat themselves at more or less precise intervals.
 
